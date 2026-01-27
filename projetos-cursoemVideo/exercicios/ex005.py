@@ -6,6 +6,7 @@
             n = n * 2	n *= 2
             n = n / 2	n /= 2
       n = n ** 2 (Potência)	n **= 2'''
+      # raiz = n ** 0.5 0u 1/2
 
 n= int(input('Digite um Numero  '))
 antecessor = n -1
